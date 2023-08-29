@@ -1,5 +1,5 @@
 {
-  "name": "@project-ui/tokens",
+  "name": "@project-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@project-ui/tokens":"*",
     "tsup": "^7.2.0",
     "typescript": "^5.2.2"
   }
