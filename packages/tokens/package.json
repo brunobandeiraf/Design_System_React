@@ -12,6 +12,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@project-ui/ts-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.2.2"
   },
