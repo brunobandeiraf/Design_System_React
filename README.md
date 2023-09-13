@@ -1,7 +1,12 @@
 # Design System - React Next
 
+## Runner 
+- npm run build
+
 ## TypeScript
 - npm i -D typescript
 - npx tsc --init
 
-## Components
+## TsUP
+- Converter aplicação TS em JS
+- npm i tsup -D
